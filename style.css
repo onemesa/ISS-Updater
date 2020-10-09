@@ -1,0 +1,33 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	position: relative;
+	top: 70px;
+}
+
+#myData {
+	text-align: center;
+	font-size: 50px;
+	color: white;
+}
+
+.results {
+	position: relative;
+	bottom: 20px;
+}
+
+.map {
+	width: 800px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	/*margin-top: 300px;*/
+	width: 45%
+	;
+}
